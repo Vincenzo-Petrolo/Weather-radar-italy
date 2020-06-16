@@ -1,0 +1,2 @@
+#!/bin/sh
+mpv  --loop-file=inf "https://cdn4.3bmeteo.com/images/radar/VMIhr_animation.gif"
