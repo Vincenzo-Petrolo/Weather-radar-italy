@@ -3,6 +3,7 @@ This script allows you to get weather infos about italy using the "Protezione Ci
 
 ## Description
 The script opens up a new windows and plays in loop the latest GIF, gotten from the website, allowing you to get the weather forecast.
+![View of the script running](/pic.png)
 
 ## Picture
 The picture shows a frame of waht should be the final look.
